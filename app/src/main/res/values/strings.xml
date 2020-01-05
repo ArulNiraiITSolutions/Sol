@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">சொல்</string>
+    <string name="app_name_en">Sol</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">சொல்</string>
+    <string name="nav_header_subtitle">Sol</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pronounce">உச்சரிப்பு</string>
+
+    /** Widgets String References **/
+    <string name="microphone" >microphone</string>
+
+    /** Sidebar menus **/
+    <string name="menu1">உயிர் எழுத்துகள்</string>
+    <string name="menu2">மெய் எழுத்துகள்</string>
+    <string name="menu3">உயிர்-மெய் எழுத்துகள்</string>
+    <string name="menu4">ஆயுத எழுத்து</string>
+    <string name="menu5"></string>
+
+    /** Special Character  ஃ **/
+     <string name="special_character">ஃ</string>
+    /** Vowels Letters **/
+    <string-array name="v_alphabets">
+        <item>அ</item>
+        <item>ஆ</item>
+        <item>இ</item>
+        <item>ஈ</item>
+        <item>உ	</item>
+        <item>ஊ</item>
+        <item>எ</item>
+        <item>ஏ</item>
+        <item>ஐ</item>
+        <item>ஒ</item>
+        <item>ஓ</item>
+        <item>ஔ</item>
+    </string-array>
+
+    /** Consonants Letters **/
+    <string-array name="c_alphabets">
+        <item>க்</item>
+        <item>ங்</item>
+        <item>ச்</item>
+        <item>ஞ்</item>
+        <item>ட்	</item>
+        <item>ண்</item>
+        <item>த்</item>
+        <item>ந்</item>
+        <item>ப்</item>
+        <item>ம்</item>
+        <item>ய்</item>
+        <item>ர்</item>
+        <item>ல்</item>
+        <item>வ்</item>
+        <item>ழ்</item>
+        <item>ள்</item>
+        <item>ற்</item>
+        <item>ன்</item>
+    </string-array>
+
+    /** Consonants Letters **/
+    <string-array name="c_v_alphabets">
+        <item>க</item>
+        <item>ங</item>
+        <item>ச</item>
+        <item>ஞ</item>
+        <item>ட	</item>
+        <item>ண</item>
+        <item>த</item>
+        <item>ந</item>
+        <item>ப</item>
+        <item>ம</item>
+        <item>ய</item>
+        <item>ர</item>
+        <item>ல</item>
+        <item>வ</item>
+        <item>ழ</item>
+        <item>ள</item>
+        <item>ற</item>
+        <item>ன</item>
+    </string-array>
+
+
+
+    <string name="title_activity_splash_screen"></string>
+    <string name="title_activity_alphabet_view">AlphabetViewActivity</string>
+
+
+    /** Result Dialogue **/
+    <string name="your_score">உங்கள் உச்சரிப்பின் மதிப்பு</string>
+    <string name="your_score_en">Your Pronunciation Score</string>
+
+    /** Dummy Data **/
+    <string name="dummy_data_2"><![CDATA[<ol>
+<li><strong>Take the eighth letter of the alphabet,</strong><br /><span style="font-size: 10pt;">1.pronounce it haitch then look for the slightly agonised</span><br />
+<span style="font-size: 10pt;"> 2.In the <em>19th Century</em>, it was normal to pronounce hospital,hotel</span><br />
+<span style="font-size: 10pt;"> and herb without the <strong>h</strong></span></li>
+</ol><ol>
+]]></string>
+
+
+
+
+</resources>
